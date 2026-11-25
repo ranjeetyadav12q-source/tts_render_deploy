@@ -1,0 +1,8 @@
+
+pyrogram==2.0.106
+TgCrypto
+EbookLib
+beautifulsoup4
+edge-tts
+python-docx
+mutagen
